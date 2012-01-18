@@ -1,0 +1,4 @@
+2009-01-12
+	* Clarified usage information.
+2012-01-08 - Harrison Neal
+	* Added extern "C" and #include <stdint.h> to files to allow for easier compilation.
